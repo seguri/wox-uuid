@@ -1,0 +1,11 @@
+{
+  "ID":"427af9c2-8836-43af-be4f-393846351824",
+  "ActionKeyword":"uuid",
+  "Name":"UUID",
+  "Description":"UUID Generator",
+  "Author":"Marco Seguri",
+  "Version":"1.0.0",
+  "Language":"python",
+  "IcoPath": "Images\\app.png",
+  "ExecuteFileName":"main.py"
+}
